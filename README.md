@@ -77,12 +77,12 @@ Follow these steps to run the project on your machine:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Subhamaym06/PrivateChats.git
 ```
 
 ### 2️⃣ Navigate to the project folder
 ```bash
-cd your-repo-name
+cd PrivateChats
 ```
 
 ### 3️⃣ Get dependencies
@@ -94,6 +94,15 @@ flutter pub get
 ```bash
 flutter run
 ```
+
+## 📱 Obtain APK
+
+Run the following command in your terminal:
+```bash
+flutter build apk
+```
+The APK will be generated at:
+`build/app/outputs/flutter-apk/app-release.apk`
 
 >💡 Make sure Flutter is installed and properly set up. Check with:
 ```bash
