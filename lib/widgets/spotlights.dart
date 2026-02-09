@@ -21,7 +21,7 @@ class SpotlightCard extends StatelessWidget {
           ),
           title: Text("Face famous. Name private."),
           subtitle: Text(
-            "You know them. That's enough.",
+            "Celebrities, not your group chat.",
             style: TextStyle(color: Colors.red),
           ),
           trailing: Column(
