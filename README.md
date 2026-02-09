@@ -10,7 +10,7 @@ This project is **UI-only** and is meant for learning, customization, and rapid 
 
 ## ✨ Overview
 
-**Private Chats** is a Flutter-based UI template inspired by privacy-first communication apps.  
+**PrivateChats** is a Flutter-based UI template inspired by privacy-first communication apps.  
 It focuses on layout, structure, and user experience rather than functionality.
 
 Perfect for:
