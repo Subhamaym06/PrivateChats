@@ -95,7 +95,15 @@ flutter pub get
 flutter run
 ```
 
-## 📱 Obtain APK
+## 📥 Download
+ 
+Grab the latest APK directly from Releases — no build required:
+ 
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](https://github.com/Subhamaym06/PrivateChats/releases/latest/download/PrivateChats.apk)
+ 
+> 💡 Since this isn't distributed via the Play Store, Android will warn about installing from an unknown source. Just allow it for this file when prompted - it's your usual "sideloading" step, not a red flag.
+ 
+### Prefer to build it yourself?
 
 Run the following command in your terminal:
 ```bash
